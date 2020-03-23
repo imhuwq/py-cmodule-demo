@@ -1,0 +1,10 @@
+# for dev
+.idea
+*.pyc
+.python-version
+
+# for build cache
+dist
+build
+demo.egg-info
+cmake-build-debug
